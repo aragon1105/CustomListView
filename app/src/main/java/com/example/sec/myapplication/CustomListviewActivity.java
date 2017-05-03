@@ -29,7 +29,8 @@ public class CustomListviewActivity extends ActionBarActivity {
             "Metropolis (1927)",
             "김준영Test",
             "코밋되랑",
-            "코밋출동"
+            "코밋출동",
+            "이이이이이"
     } ;
     Integer[] images = {
             R.drawable.movie1,
